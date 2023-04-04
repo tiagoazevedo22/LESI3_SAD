@@ -1,0 +1,14 @@
+INSERT INTO "packagetypes" ("packagetypeid", "packagetypename") VALUES (1, 'Bag');
+INSERT INTO "packagetypes" ("packagetypeid", "packagetypename") VALUES (2, 'Block');
+INSERT INTO "packagetypes" ("packagetypeid", "packagetypename") VALUES (3, 'Bottle');
+INSERT INTO "packagetypes" ("packagetypeid", "packagetypename") VALUES (4, 'Box');
+INSERT INTO "packagetypes" ("packagetypeid", "packagetypename") VALUES (5, 'Can');
+INSERT INTO "packagetypes" ("packagetypeid", "packagetypename") VALUES (6, 'Carton');
+INSERT INTO "packagetypes" ("packagetypeid", "packagetypename") VALUES (7, 'Each');
+INSERT INTO "packagetypes" ("packagetypeid", "packagetypename") VALUES (8, 'Kg');
+INSERT INTO "packagetypes" ("packagetypeid", "packagetypename") VALUES (9, 'Packet');
+INSERT INTO "packagetypes" ("packagetypeid", "packagetypename") VALUES (10, 'Pair');
+INSERT INTO "packagetypes" ("packagetypeid", "packagetypename") VALUES (11, 'Pallet');
+INSERT INTO "packagetypes" ("packagetypeid", "packagetypename") VALUES (12, 'Tray');
+INSERT INTO "packagetypes" ("packagetypeid", "packagetypename") VALUES (13, 'Tub ');
+INSERT INTO "packagetypes" ("packagetypeid", "packagetypename") VALUES (14, 'Tube');

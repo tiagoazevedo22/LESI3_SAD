@@ -1,0 +1,10 @@
+INSERT INTO "stockgroups" ("stockgroupid", "stockgroupname") VALUES (1, 'Novelty Items');
+INSERT INTO "stockgroups" ("stockgroupid", "stockgroupname") VALUES (2, 'Clothing');
+INSERT INTO "stockgroups" ("stockgroupid", "stockgroupname") VALUES (3, 'Mugs');
+INSERT INTO "stockgroups" ("stockgroupid", "stockgroupname") VALUES (4, 'T-Shirts');
+INSERT INTO "stockgroups" ("stockgroupid", "stockgroupname") VALUES (5, 'Airline Novelties');
+INSERT INTO "stockgroups" ("stockgroupid", "stockgroupname") VALUES (6, 'Computing Novelties');
+INSERT INTO "stockgroups" ("stockgroupid", "stockgroupname") VALUES (7, 'USB Novelties');
+INSERT INTO "stockgroups" ("stockgroupid", "stockgroupname") VALUES (8, 'Furry Footwear');
+INSERT INTO "stockgroups" ("stockgroupid", "stockgroupname") VALUES (9, 'Toys');
+INSERT INTO "stockgroups" ("stockgroupid", "stockgroupname") VALUES (10, 'Packaging Materials');

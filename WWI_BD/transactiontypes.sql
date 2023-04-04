@@ -1,0 +1,13 @@
+INSERT INTO "transactiontypes" ("transactiontypeid", "transactiontypename") VALUES (1, 'Customer Invoice');
+INSERT INTO "transactiontypes" ("transactiontypeid", "transactiontypename") VALUES (2, 'Customer Credit Note');
+INSERT INTO "transactiontypes" ("transactiontypeid", "transactiontypename") VALUES (3, 'Customer Payment Received');
+INSERT INTO "transactiontypes" ("transactiontypeid", "transactiontypename") VALUES (4, 'Customer Refund');
+INSERT INTO "transactiontypes" ("transactiontypeid", "transactiontypename") VALUES (5, 'Supplier Invoice');
+INSERT INTO "transactiontypes" ("transactiontypeid", "transactiontypename") VALUES (6, 'Supplier Credit Note');
+INSERT INTO "transactiontypes" ("transactiontypeid", "transactiontypename") VALUES (7, 'Supplier Payment Issued');
+INSERT INTO "transactiontypes" ("transactiontypeid", "transactiontypename") VALUES (8, 'Supplier Refund');
+INSERT INTO "transactiontypes" ("transactiontypeid", "transactiontypename") VALUES (9, 'Stock Transfer');
+INSERT INTO "transactiontypes" ("transactiontypeid", "transactiontypename") VALUES (10, 'Stock Issue');
+INSERT INTO "transactiontypes" ("transactiontypeid", "transactiontypename") VALUES (11, 'Stock Receipt');
+INSERT INTO "transactiontypes" ("transactiontypeid", "transactiontypename") VALUES (12, 'Stock Adjustment at Stocktake');
+INSERT INTO "transactiontypes" ("transactiontypeid", "transactiontypename") VALUES (13, 'Customer Contra');

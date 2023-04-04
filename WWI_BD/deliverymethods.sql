@@ -1,0 +1,10 @@
+INSERT INTO "deliverymethods" ("deliverymethodid", "deliverymethodname") VALUES (1, 'Post');
+INSERT INTO "deliverymethods" ("deliverymethodid", "deliverymethodname") VALUES (2, 'Courier');
+INSERT INTO "deliverymethods" ("deliverymethodid", "deliverymethodname") VALUES (3, 'Delivery Van');
+INSERT INTO "deliverymethods" ("deliverymethodid", "deliverymethodname") VALUES (4, 'Customer Collect');
+INSERT INTO "deliverymethods" ("deliverymethodid", "deliverymethodname") VALUES (5, 'Chilled Van');
+INSERT INTO "deliverymethods" ("deliverymethodid", "deliverymethodname") VALUES (6, 'Customer Courier to Collect');
+INSERT INTO "deliverymethods" ("deliverymethodid", "deliverymethodname") VALUES (7, 'Road Freight');
+INSERT INTO "deliverymethods" ("deliverymethodid", "deliverymethodname") VALUES (8, 'Air Freight');
+INSERT INTO "deliverymethods" ("deliverymethodid", "deliverymethodname") VALUES (9, 'Refrigerated Road Freight');
+INSERT INTO "deliverymethods" ("deliverymethodid", "deliverymethodname") VALUES (10, 'Refrigerated Air Freight');
